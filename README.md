@@ -1,3 +1,3 @@
-#ckanext-datatablesview
-Fork of the DataTables CKAN plugin
+# ckanext-datatablesview
 
+Fork of the DataTables CKAN plugin
