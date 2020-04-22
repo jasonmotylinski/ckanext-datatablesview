@@ -23,6 +23,6 @@ setup(
     ],
     entry_points='''
         [ckan.plugins]
-        datatablesview=ckanext.datatablesview.plugin:DataTablesView
+        datatables_view=ckanext.datatablesview.plugin:DataTablesView
     ''',
 )
